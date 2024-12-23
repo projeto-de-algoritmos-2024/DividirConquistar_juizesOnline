@@ -44,7 +44,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 ## Problema 4: []()
 
 - Nível: Médio
-- Conteúdo: Dijkstra
+- Conteúdo: 
 - Explicação: [Explicação 04](./explicacao/problema04.md)
 - Implementação: [Código 04](./codigos/questao04.cpp)
 - Vídeo: [Implementação 04]()
@@ -74,4 +74,3 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 # Considerações finais
 Durante todo o semestre, o objetivo é integrar este repositório ao máximo com anotações sobre o conteúdo e com a implementação das diversas questões abordadas no material estudado. Como as anotações e demais pontos ainda não foram completamente elaborados e uma segunda dupla precisa avaliar o trabalho, restringimos a avaliação às questões 1 a 4 listadas no README.
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
