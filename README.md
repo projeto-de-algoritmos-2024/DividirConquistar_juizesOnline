@@ -20,7 +20,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Contagem de Inversões
 - Explicação: [Explicação 01](./explicacao/problema01.md)
 - Implementação: [Código 01](./codigos/questao01.cpp)
-- Vídeo: [Implementação 01]()
+- Vídeo: [Implementação 01](https://youtu.be/0jjJAvMOgnI)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
 ## Problema 2: [Problema dos Pares Mais Próximos](https://judge.beecrowd.com/pt/problems/view/1295)
@@ -29,7 +29,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Par de Pontos mais Próximo
 - Explicação: [Explicação 02](./explicacao/problema02.md)
 - Implementação: [Código 02](./codigos/questao02.cpp)
-- Vídeo: [Implementação 02]()
+- Vídeo: [Implementação 02](https://youtu.be/pntDBP3iZpI)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
 ## Problema 3: []()
