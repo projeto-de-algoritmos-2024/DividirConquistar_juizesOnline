@@ -14,10 +14,10 @@
 
 O projeto consiste na resolução de questões que percorrem o conteúdo visto em sala de aula sobre conceitos aprofundados em algoritmos dividir pra conquistar.
 
-## Problema 1: []()
+## Problema 1: [Bolhas e Baldes](https://judge.beecrowd.com/pt/problems/view/1088)
 
 - Nível: Médio
-- Conteúdo:
+- Conteúdo: Contagem de Inversões
 - Explicação: [Explicação 01](./explicacao/problema01.md)
 - Implementação: [Código 01](./codigos/questao01.cpp)
 - Vídeo: [Implementação 01]()
