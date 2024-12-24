@@ -41,7 +41,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo: [Implementação 03](https://heylisten64.notion.site/Questao-03-166173cd622780c1af92e8ee6eab898a?pvs=4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
-## Problema 4: []()
+## Problema 4: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 - Nível: Médio
 - Conteúdo: Dividir para Conquistar
