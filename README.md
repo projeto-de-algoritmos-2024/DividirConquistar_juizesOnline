@@ -38,16 +38,16 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Merge Sort Modificado; Dividir para Conquistar semelhante ao modelo de contagem de inversões.
 - Explicação: [Explicação 03](./explicacao/problema03.md)
 - Implementação: [Código 03](./codigos/questao03.cpp)
-- Vídeo: [Implementação 03]()
+- Vídeo: [Implementação 03](https://heylisten64.notion.site/Questao-03-166173cd622780c1af92e8ee6eab898a?pvs=4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 ## Problema 4: []()
 
 - Nível: Médio
-- Conteúdo:
+- Conteúdo: Dividir para Conquistar
 - Explicação: [Explicação 04](./explicacao/problema04.md)
 - Implementação: [Código 04](./codigos/questao04.cpp)
-- Vídeo: [Implementação 04]()
+- Vídeo: [Implementação 04](https://heylisten64.notion.site/Questao-04-166173cd622780b7a8ccdedec38e394d?pvs=4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 <!--
